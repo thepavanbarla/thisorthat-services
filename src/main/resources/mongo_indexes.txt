@@ -1,0 +1,1 @@
+db.tot_vote.createIndex({"userId": 1, "postId": 1}, {unique: true });
