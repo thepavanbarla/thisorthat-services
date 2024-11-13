@@ -7,8 +7,8 @@ This repo contains backend micro-services for This or That, serving both the mob
 - MongoDB
 
 Links to other This or That repos: 
-- [This or That Backend APIs](https://github.com/thepavanbarla/thisorthat-services)
 - [This or That Mobile App](https://github.com/thepavanbarla/thisorthat-app)
+- [This or That Web App](https://github.com/thepavanbarla/thisorthat-web)
 
 ### Note
 None of the keys/secrets you see in these repos are valid anymore. 
